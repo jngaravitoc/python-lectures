@@ -6,3 +6,4 @@ Short course on python and unix
 3. python: functions, recursion and numpy.  
 4. python: Output and input files.
 6. python: matplotlib.
+7. python: Statistical tools
